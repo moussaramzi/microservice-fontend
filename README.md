@@ -28,4 +28,22 @@ This project is the frontend for the Recipe Microservice application. It is buil
    ```bash
    cd microservice-fontend
 
+3. Install dependencies:
+
+   ```bash
+   npm install
+
+### Running the application:
+
+1. Start the development server:
+
+   ```bash
+   ng serve
+2. Open your browser and navigate to:
+
+   ```bash
+   http://localhost:4200
+
+
+
 
