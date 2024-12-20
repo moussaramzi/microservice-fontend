@@ -22,17 +22,14 @@ This project is the frontend for the Recipe Microservice application. It is buil
 
    ```bash
    git clone https://github.com/moussaramzi/microservice-fontend.git
-
 2. Navigate to the project directory:
 
    ```bash
    cd microservice-fontend
-
 3. Install dependencies:
 
    ```bash
    npm install
-
 ### Running the application:
 
 1. Start the development server:
@@ -43,7 +40,3 @@ This project is the frontend for the Recipe Microservice application. It is buil
 
    ```bash
    http://localhost:4200
-
-
-
-
