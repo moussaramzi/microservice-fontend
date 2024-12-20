@@ -1,28 +1,24 @@
+# Recipe Microservice Frontend
 
-# Recipe
+This project is the frontend for the Recipe Microservice application. It is built with Angular and provides functionality to create, edit, and manage recipes, as well as add and delete comments.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+## Features
 
-## Development server
+- View recipes with details, comments, and authors.
+- Add new recipes (requires login).
+- Edit your own recipes.
+- Comment on recipes and delete your own comments.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Getting Started
 
-## Code scaffolding
+### Prerequisites
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Node.js** (v16 or higher)
+- **Angular CLI** (v18 or higher)
 
-## Build
+### Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone the repository:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+   ```bash
+   git clone https://github.com/moussaramzi/microservice-fontend.git
