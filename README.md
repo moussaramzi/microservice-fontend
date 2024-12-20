@@ -22,3 +22,10 @@ This project is the frontend for the Recipe Microservice application. It is buil
 
    ```bash
    git clone https://github.com/moussaramzi/microservice-fontend.git
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd microservice-fontend
+
+
